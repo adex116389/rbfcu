@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>8820EF57-515E-4FD2-A6B6-7E3669EB72AD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-728.000000, -529.000000)">
+            <g id="close-gray-circle" transform="translate(729.000000, 530.000000)">
+                <path d="M5.1255,5.1255 C-1.7085,11.9605 -1.7085,23.0405 5.1255,29.8745 C11.9605,36.7085 23.0405,36.7085 29.8745,29.8745 C36.7085,23.0405 36.7085,11.9605 29.8745,5.1255 C23.0405,-1.7085 11.9605,-1.7085 5.1255,5.1255 Z" id="Stroke-10" stroke="#999999" stroke-width="2" stroke-linecap="round"></path>
+                <polygon id="Fill-8" fill="#999999" fill-rule="evenodd" transform="translate(18.000000, 18.000000) rotate(45.000000) translate(-18.000000, -18.000000) " points="10 19 26 19 26 17 10 17"></polygon>
+                <polygon id="Fill-9" fill="#999999" fill-rule="evenodd" transform="translate(18.000000, 18.000000) rotate(45.000000) translate(-18.000000, -18.000000) " points="17 26 19 26 19 10 17 10"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
